@@ -20,7 +20,7 @@ Parser that extracts information from any resume and converts into a structured 
 ### Installation
 Open powershell in windows (run->powershell)
 
-1. Git clone https://github.com/antonydeepak/ResumeParser.git
+1. Git clone https://github.com/reach2arunprakash/ResumeParser.git
 2. cd ResumeParser
 3. cd ResumeTransducer
 4. $env:GATE_HOME="..\GATEFiles"  *(beware: you are giving a relative path for ease.)*
